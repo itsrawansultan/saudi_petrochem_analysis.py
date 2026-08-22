@@ -1,3 +1,6 @@
+import pandas as pd
+import numpy as np
+
 # 1. Financial Data Construction (Saudi Petrochemical Sector - SAR Millions)
 data = {
     'Year': [2021, 2022, 2023, 2024, 2025],
